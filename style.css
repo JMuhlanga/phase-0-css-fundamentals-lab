@@ -2,4 +2,49 @@ body {
   width: 100%;
   height: 100%;
   margin: 0;
+ text-align: center;
+}
+
+h1 {
+  text-align: center;
+}
+
+a{
+  padding: 10px;
+}
+
+figcaption{
+  font-size: small;
+  text-align: center;
+}
+
+#firstp{
+  width: 800px;
+  text-align: center;
+  margin-left: 300px;
+}
+#secondp{
+  width: 800px;
+  text-align: center;
+  margin-left: 300px;
+}
+
+#details > div{
+  
+  text-align: center;
+  width:25%;
+  float:left
+  
+  
+}
+
+#details{
+  float: left;
+  margin-left: 300px;
+  background-color: red;
+}
+
+nav{
+  background-color: rgba(0,0,255,0.5);
+
 }
